@@ -1,5 +1,6 @@
 1------------------------DJANGO ----------------------------->
-   --- Installation --------------->
+
+    --- Installation --------------->
 
       -> Python
       -> pip3 install pipenv
